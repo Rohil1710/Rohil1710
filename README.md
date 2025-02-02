@@ -15,8 +15,6 @@
   
 👨‍💻 Currently working as a Data Engineer Intern at Arcurve
 
-🔬 Former Data Engineer/Research Intern at CERN Open Collaboration
-
 💡 Passionate about solving complex challenges in data engineering and software development
 
 ## 🌐 Socials
