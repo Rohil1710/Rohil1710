@@ -13,7 +13,7 @@
   
 🎓 Software Engineering student at the University of Calgary's Schulich School of Engineering (First Year Scholars Program)
   
-👨‍💻 Currently working as a Data Engineer Intern at Arcurve
+👨‍💻 Currently working as a Risk Analytics Engineer Intern at TD Bank (Toronto)
 
 💡 Passionate about solving complex challenges in data engineering and software development
 
