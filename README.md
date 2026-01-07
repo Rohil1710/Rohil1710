@@ -11,9 +11,9 @@
   
 # 💫 About Me:
   
-🎓 Software Engineering student at the University of Calgary's Schulich School of Engineering (First Year Scholars Program)
+🎓 Software Engineering student at the University of Calgary's Schulich School of Engineering
   
-👨‍💻 Currently working as a Risk Analytics Engineer Intern at TD Bank (Toronto)
+👨‍💻 Incoming @ RBC Amplify, Summer 2026
 
 💡 Passionate about solving complex challenges in data engineering and software development
 
